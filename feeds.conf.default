@@ -1,3 +1,4 @@
+src-git packages https://git.openwrt.org/feed/packages.git
 src-git passwall https://github.com/xiaorouji/openwrt-passwall
 src-git helloworld https://github.com/fw876/helloworld
 src-git kenzo https://github.com/kenzok8/openwrt-packages
